@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
+    background: radial-gradient(circle, #d2b599, #ffffff);
+    color: white;
+}
+
